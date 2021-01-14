@@ -1,10 +1,9 @@
 # Big Query notification  
 You need it, but you don't know it.
 
-## Pre-require
-- gcloud (with your account logged in)
-- bq
-- awk
+## Screenshot
+![Notification](/img/noti.png)
+![Terminal](/img/terminal.png)
 
 ## How to use
 Paste this into your terminal, and you are done:
@@ -13,8 +12,17 @@ Paste this into your terminal, and you are done:
 ```
 Press `Control + C` to stop
 
+## Pre-require
+- gcloud (with your account logged in)
+- bq
+- awk
+
+
+
 ## Linux and windows support
 Coming soon...
 
-## TODO
-[ ] Auto install gcloud + bq + auto open login flow if not logged in
+## Help wanted
+- [ ] Auto install gcloud + bq + auto open login flow if not logged in
+- [ ] Support Linux
+- [ ] Support Windows

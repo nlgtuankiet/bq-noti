@@ -6,7 +6,7 @@ You need it, but you don't know it.
 ![Terminal](/img/terminal.png)
 
 ## How to use
-Paste this into your terminal, and you are done:
+Paste this into your terminal, press Enter, you are done:
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nlgtuankiet/bq-noti/master/bq-noti.sh)"
 ```
